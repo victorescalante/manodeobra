@@ -1,0 +1,23 @@
+{
+    "name": "myara/myci",
+    "description": "CodeIgniter with twitter bootstrap, admin and blade templating",
+    "config":
+    {
+        "vendor-dir": "application/libraries"
+    },
+    "require": {
+        "philo/laravel-blade": "~2.3",
+        "nesbot/Carbon": "*",
+        "bugsnag/bugsnag-laravel": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Borges",
+            "email": "rbm0407@gmail.com"
+        },
+        {
+        	"name": "Myara Team",
+        	"email": "myara@myara.net"
+        }
+    ]
+}

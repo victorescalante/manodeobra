@@ -1,0 +1,12 @@
+.idea
+application/config/database.php
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+gv-kfm3smpy4wefpk.dv.googlehosted.com
+application/cache/*
+application/.DS_Store
+uploads/
+.DS_Store
